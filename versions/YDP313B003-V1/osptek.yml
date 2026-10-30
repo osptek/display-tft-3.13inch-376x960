@@ -1,0 +1,10 @@
+id: YDP313B003-V1
+category: displays
+size: "3.13"
+panel: tft
+resolution: 376x960
+interface: [mipi]
+driver: GC9503CV
+touch: null
+outline: 31.10 x 81.10 mm
+active_area: 28.99 x 74.02 mm
